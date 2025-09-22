@@ -1,17 +1,19 @@
-# Applied Machine Learning – Mini-Challenge
+# Applied ML Mini-Challenge
 
-Dieses Repository enthält die **Mini-Challenge im Modul Applied Machine Learning (AML)**.  
-Ziel: Entwicklung und Anwendung eines Modells für **Kreditkarten-Cross-Selling** auf Basis von Kundendaten.
+Dieses Projekt entstand im Rahmen einer Mini-Challenge im Modul **Applied Machine Learning**.  
+Ziel war es, **Kundenlisten für eine personalisierte Kreditkarten-Werbekampagne** zu entwickeln – mit dem Ausschluss von Junior-Karten.  
 
-## 📊 Inhalte
-- `AML_MC.ipynb` – Quarto- und Jupyter-Notebooks mit Code & Analysen  
-- `AML_MC.html` – gerenderter Report  
-- `xselling_banking_data/` – verwendete Datensätze  
-- `conda-requirements.txt`, `environment.yml` – Reproduzierbare Umgebung  
+Die Daten stammen aus einer **realitätsnahen Bankensimulation** ([Datenbeschreibung](https://sorry.vse.cz/~berka/challenge/PAST/index.html)) und bestehen aus Transaktions- und Kundendaten.  
 
-## 🔗 Report ansehen
-👉 [Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-MiniChallenge/AML_MC.html)
+### Inhalte & Schwerpunkte
+- Aufbereitung und Exploration eines komplexen Bank-Datensatzes  
+- Entwicklung und Vergleich von Klassifikationsmodellen  
+- Systematische **Hyperparameter-Optimierung** und Modellselektion  
+- Analyse der wichtigsten Einflussfaktoren (Feature Importance)  
+- Erstellung von **Top-N-Listen** für Kampagnenplanung  
+- Modellvereinfachung und **Erklärbarkeit für Non-Data Scientists**  
+
+👉 [Hier den Report online ansehen](https://nabilmik.github.io/Applied-ML-MiniChallenge/AML_MC.html)
 
 ---
 
-✍️ Autor: Nabil Mikhael
