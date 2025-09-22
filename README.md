@@ -20,7 +20,7 @@ Die Daten stammen aus einer **realitätsnahen Bankensimulation** ([Datenbeschrei
 - `conda-requirements.txt`, `environment.yml` – Reproduzierbare Umgebung  
 
 ## 🔗 Report ansehen
-👉 [Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-MiniChallenge/AML_MC.html)
+👉 [Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-Project-Credit-Card-Campaigns/AML_MC.html)
 
 ---
 
