@@ -13,7 +13,16 @@ Die Daten stammen aus einer **realitätsnahen Bankensimulation** ([Datenbeschrei
 - Erstellung von **Top-N-Listen** für Kampagnenplanung  
 - Modellvereinfachung und **Erklärbarkeit für Non-Data Scientists**  
 
-👉 [Hier den Report online ansehen](https://nabilmik.github.io/Applied-ML-MiniChallenge/AML_MC.html)
+## 📊 Inhalte
+- `AML_MC.qmd` / `AML_MC.ipynb` – Quarto- und Jupyter-Notebooks mit Code & Analysen  
+- `AML_MC.html` – gerenderter Report  
+- `xselling_banking_data/` – verwendete Datensätze  
+- `conda-requirements.txt`, `environment.yml` – Reproduzierbare Umgebung  
+
+## 🔗 Report ansehen
+👉 [Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-MiniChallenge/AML_MC.html)
 
 ---
+
+✍️ Autor: Nabil Mikhael / Alessandro Gregori
 
