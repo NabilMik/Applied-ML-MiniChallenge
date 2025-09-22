@@ -5,15 +5,14 @@ Ziel war es, **Kundenlisten für eine personalisierte Kreditkarten-Werbekampagne
 
 Die Daten stammen aus einer **realitätsnahen Bankensimulation** ([Datenbeschreibung](https://sorry.vse.cz/~berka/challenge/PAST/index.html)) und beinhalten Transaktions- sowie Kundendaten.  
 
-## 📊 Projektstruktur
+## Projektstruktur
 - `AML_MC.qmd` / `AML_MC.ipynb` – Quarto- und Jupyter-Notebooks mit Code & Analysen  
 - `AML_MC.html` – Gerenderter Report  
 - `xselling_banking_data/` – Verwendete Datensätze  
 - `conda-requirements.txt`, `environment.yml` – Reproduzierbare Umgebung  
 
-## 🔗 Report ansehen
-👉 [Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-Project-Credit-Card-Campaigns/AML_MC.html)
+## Report ansehen
+[Hier den Report online öffnen](https://nabilmik.github.io/Applied-ML-Project-Credit-Card-Campaigns/AML_MC.html)
 
 ---
-
-✍️ **Autoren**: Nabil Mikhael & Alessandro Gregori
+**Autoren**: Nabil Mikhael & Alessandro Gregori
